@@ -3,116 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\fatin\\source\\repos\\netproject2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6D3AB30B-D22D-4501-8731-218F60F5387F}|netproject2\\netproject2.csproj|c:\\users\\fatin\\source\\repos\\netproject2\\netproject2\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{6D3AB30B-D22D-4501-8731-218F60F5387F}|netproject2\\netproject2.csproj|solutionrelative:netproject2\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6D3AB30B-D22D-4501-8731-218F60F5387F}|netproject2\\netproject2.csproj|c:\\users\\fatin\\source\\repos\\netproject2\\netproject2\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D3AB30B-D22D-4501-8731-218F60F5387F}|netproject2\\netproject2.csproj|solutionrelative:netproject2\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6D3AB30B-D22D-4501-8731-218F60F5387F}|netproject2\\netproject2.csproj|c:\\users\\fatin\\source\\repos\\netproject2\\netproject2\\command\\stringtovisibilityconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D3AB30B-D22D-4501-8731-218F60F5387F}|netproject2\\netproject2.csproj|solutionrelative:netproject2\\command\\stringtovisibilityconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6D3AB30B-D22D-4501-8731-218F60F5387F}|netproject2\\netproject2.csproj|c:\\users\\fatin\\source\\repos\\netproject2\\netproject2\\views\\addsubjectsview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{6D3AB30B-D22D-4501-8731-218F60F5387F}|netproject2\\netproject2.csproj|solutionrelative:netproject2\\views\\addsubjectsview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6D3AB30B-D22D-4501-8731-218F60F5387F}|netproject2\\netproject2.csproj|c:\\users\\fatin\\source\\repos\\netproject2\\netproject2\\views\\subjectsview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D3AB30B-D22D-4501-8731-218F60F5387F}|netproject2\\netproject2.csproj|solutionrelative:netproject2\\views\\subjectsview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6D3AB30B-D22D-4501-8731-218F60F5387F}|netproject2\\netproject2.csproj|c:\\users\\fatin\\source\\repos\\netproject2\\netproject2\\viewmodels\\addsubjectviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D3AB30B-D22D-4501-8731-218F60F5387F}|netproject2\\netproject2.csproj|solutionrelative:netproject2\\viewmodels\\addsubjectviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6D3AB30B-D22D-4501-8731-218F60F5387F}|netproject2\\netproject2.csproj|c:\\users\\fatin\\source\\repos\\netproject2\\netproject2\\viewmodels\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D3AB30B-D22D-4501-8731-218F60F5387F}|netproject2\\netproject2.csproj|solutionrelative:netproject2\\viewmodels\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6D3AB30B-D22D-4501-8731-218F60F5387F}|netproject2\\netproject2.csproj|c:\\users\\fatin\\source\\repos\\netproject2\\netproject2\\views\\addsubjectsview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D3AB30B-D22D-4501-8731-218F60F5387F}|netproject2\\netproject2.csproj|solutionrelative:netproject2\\views\\addsubjectsview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6D3AB30B-D22D-4501-8731-218F60F5387F}|netproject2\\netproject2.csproj|c:\\users\\fatin\\source\\repos\\netproject2\\netproject2\\data\\subjectsdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D3AB30B-D22D-4501-8731-218F60F5387F}|netproject2\\netproject2.csproj|solutionrelative:netproject2\\data\\subjectsdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6D3AB30B-D22D-4501-8731-218F60F5387F}|netproject2\\netproject2.csproj|c:\\users\\fatin\\source\\repos\\netproject2\\netproject2\\data\\isubjectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D3AB30B-D22D-4501-8731-218F60F5387F}|netproject2\\netproject2.csproj|solutionrelative:netproject2\\data\\isubjectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6D3AB30B-D22D-4501-8731-218F60F5387F}|netproject2\\netproject2.csproj|c:\\users\\fatin\\source\\repos\\netproject2\\netproject2\\views\\subjectsview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{6D3AB30B-D22D-4501-8731-218F60F5387F}|netproject2\\netproject2.csproj|solutionrelative:netproject2\\views\\subjectsview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6D3AB30B-D22D-4501-8731-218F60F5387F}|netproject2\\netproject2.csproj|c:\\users\\fatin\\source\\repos\\netproject2\\netproject2\\viewmodels\\subjectsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D3AB30B-D22D-4501-8731-218F60F5387F}|netproject2\\netproject2.csproj|solutionrelative:netproject2\\viewmodels\\subjectsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6D3AB30B-D22D-4501-8731-218F60F5387F}|netproject2\\netproject2.csproj|c:\\users\\fatin\\source\\repos\\netproject2\\netproject2\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D3AB30B-D22D-4501-8731-218F60F5387F}|netproject2\\netproject2.csproj|solutionrelative:netproject2\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6D3AB30B-D22D-4501-8731-218F60F5387F}|netproject2\\netproject2.csproj|c:\\users\\fatin\\source\\repos\\netproject2\\netproject2\\views\\loginview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{6D3AB30B-D22D-4501-8731-218F60F5387F}|netproject2\\netproject2.csproj|solutionrelative:netproject2\\views\\loginview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6D3AB30B-D22D-4501-8731-218F60F5387F}|netproject2\\netproject2.csproj|c:\\users\\fatin\\source\\repos\\netproject2\\netproject2\\views\\loginview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D3AB30B-D22D-4501-8731-218F60F5387F}|netproject2\\netproject2.csproj|solutionrelative:netproject2\\views\\loginview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6D3AB30B-D22D-4501-8731-218F60F5387F}|netproject2\\netproject2.csproj|c:\\users\\fatin\\source\\repos\\netproject2\\netproject2\\tests\\subjectsdbtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D3AB30B-D22D-4501-8731-218F60F5387F}|netproject2\\netproject2.csproj|solutionrelative:netproject2\\tests\\subjectsdbtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6D3AB30B-D22D-4501-8731-218F60F5387F}|netproject2\\netproject2.csproj|c:\\users\\fatin\\source\\repos\\netproject2\\netproject2\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6D3AB30B-D22D-4501-8731-218F60F5387F}|netproject2\\netproject2.csproj|solutionrelative:netproject2\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6D3AB30B-D22D-4501-8731-218F60F5387F}|netproject2\\netproject2.csproj|c:\\users\\fatin\\source\\repos\\netproject2\\netproject2\\views\\editsubjectview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{6D3AB30B-D22D-4501-8731-218F60F5387F}|netproject2\\netproject2.csproj|solutionrelative:netproject2\\views\\editsubjectview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{6D3AB30B-D22D-4501-8731-218F60F5387F}|netproject2\\netproject2.csproj|c:\\users\\fatin\\source\\repos\\netproject2\\netproject2\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D3AB30B-D22D-4501-8731-218F60F5387F}|netproject2\\netproject2.csproj|solutionrelative:netproject2\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6D3AB30B-D22D-4501-8731-218F60F5387F}|netproject2\\netproject2.csproj|c:\\users\\fatin\\source\\repos\\netproject2\\netproject2\\views\\editsubjectview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D3AB30B-D22D-4501-8731-218F60F5387F}|netproject2\\netproject2.csproj|solutionrelative:netproject2\\views\\editsubjectview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6D3AB30B-D22D-4501-8731-218F60F5387F}|netproject2\\netproject2.csproj|c:\\users\\fatin\\source\\repos\\netproject2\\netproject2\\viewmodels\\subjectsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D3AB30B-D22D-4501-8731-218F60F5387F}|netproject2\\netproject2.csproj|solutionrelative:netproject2\\viewmodels\\subjectsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6D3AB30B-D22D-4501-8731-218F60F5387F}|netproject2\\netproject2.csproj|c:\\users\\fatin\\source\\repos\\netproject2\\netproject2\\command\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D3AB30B-D22D-4501-8731-218F60F5387F}|netproject2\\netproject2.csproj|solutionrelative:netproject2\\command\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6D3AB30B-D22D-4501-8731-218F60F5387F}|netproject2\\netproject2.csproj|c:\\users\\fatin\\source\\repos\\netproject2\\netproject2\\viewmodels\\subjectdashboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D3AB30B-D22D-4501-8731-218F60F5387F}|netproject2\\netproject2.csproj|solutionrelative:netproject2\\viewmodels\\subjectdashboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6D3AB30B-D22D-4501-8731-218F60F5387F}|netproject2\\netproject2.csproj|c:\\users\\fatin\\source\\repos\\netproject2\\netproject2\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D3AB30B-D22D-4501-8731-218F60F5387F}|netproject2\\netproject2.csproj|solutionrelative:netproject2\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\fatin\\source\\repos\\netproject2\\netproject2\\Migrations\\20241023122120_RenamePrimaryKeyToSubjectId.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:netproject2\\Migrations\\20241023122120_RenamePrimaryKeyToSubjectId.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6D3AB30B-D22D-4501-8731-218F60F5387F}|netproject2\\netproject2.csproj|c:\\users\\fatin\\source\\repos\\netproject2\\netproject2\\models\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D3AB30B-D22D-4501-8731-218F60F5387F}|netproject2\\netproject2.csproj|solutionrelative:netproject2\\models\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6D3AB30B-D22D-4501-8731-218F60F5387F}|netproject2\\netproject2.csproj|c:\\users\\fatin\\source\\repos\\netproject2\\netproject2\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D3AB30B-D22D-4501-8731-218F60F5387F}|netproject2\\netproject2.csproj|solutionrelative:netproject2\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6D3AB30B-D22D-4501-8731-218F60F5387F}|netproject2\\netproject2.csproj|c:\\users\\fatin\\source\\repos\\netproject2\\netproject2\\netproject2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{6D3AB30B-D22D-4501-8731-218F60F5387F}|netproject2\\netproject2.csproj|solutionrelative:netproject2\\netproject2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6D3AB30B-D22D-4501-8731-218F60F5387F}|netproject2\\netproject2.csproj|c:\\users\\fatin\\source\\repos\\netproject2\\netproject2\\views\\subjectdashboard.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D3AB30B-D22D-4501-8731-218F60F5387F}|netproject2\\netproject2.csproj|solutionrelative:netproject2\\views\\subjectdashboard.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6D3AB30B-D22D-4501-8731-218F60F5387F}|netproject2\\netproject2.csproj|c:\\users\\fatin\\source\\repos\\netproject2\\netproject2\\views\\subjectdashboard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{6D3AB30B-D22D-4501-8731-218F60F5387F}|netproject2\\netproject2.csproj|solutionrelative:netproject2\\views\\subjectdashboard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6D3AB30B-D22D-4501-8731-218F60F5387F}|netproject2\\netproject2.csproj|c:\\users\\fatin\\source\\repos\\netproject2\\netproject2\\migrations\\20241023123451_seedinitialdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D3AB30B-D22D-4501-8731-218F60F5387F}|netproject2\\netproject2.csproj|solutionrelative:netproject2\\migrations\\20241023123451_seedinitialdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6D3AB30B-D22D-4501-8731-218F60F5387F}|netproject2\\netproject2.csproj|c:\\users\\fatin\\source\\repos\\netproject2\\netproject2\\migrations\\20241023122556_addsubjectidtosubjects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D3AB30B-D22D-4501-8731-218F60F5387F}|netproject2\\netproject2.csproj|solutionrelative:netproject2\\migrations\\20241023122556_addsubjectidtosubjects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -122,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -134,343 +46,79 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "StringToVisibilityConverter.cs",
-              "DocumentMoniker": "C:\\Users\\fatin\\source\\repos\\netproject2\\netproject2\\Command\\StringToVisibilityConverter.cs",
-              "RelativeDocumentMoniker": "netproject2\\Command\\StringToVisibilityConverter.cs",
-              "ToolTip": "C:\\Users\\fatin\\source\\repos\\netproject2\\netproject2\\Command\\StringToVisibilityConverter.cs",
-              "RelativeToolTip": "netproject2\\Command\\StringToVisibilityConverter.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T04:06:08.233Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "AddSubjectsView.xaml",
-              "DocumentMoniker": "C:\\Users\\fatin\\source\\repos\\netproject2\\netproject2\\Views\\AddSubjectsView.xaml",
-              "RelativeDocumentMoniker": "netproject2\\Views\\AddSubjectsView.xaml",
-              "ToolTip": "C:\\Users\\fatin\\source\\repos\\netproject2\\netproject2\\Views\\AddSubjectsView.xaml",
-              "RelativeToolTip": "netproject2\\Views\\AddSubjectsView.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-23T11:18:31.663Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AddSubjectViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\fatin\\source\\repos\\netproject2\\netproject2\\ViewModels\\AddSubjectViewModel.cs",
-              "RelativeDocumentMoniker": "netproject2\\ViewModels\\AddSubjectViewModel.cs",
-              "ToolTip": "C:\\Users\\fatin\\source\\repos\\netproject2\\netproject2\\ViewModels\\AddSubjectViewModel.cs",
-              "RelativeToolTip": "netproject2\\ViewModels\\AddSubjectViewModel.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAAAuwEYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T11:15:07.796Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "SubjectsView.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\fatin\\source\\repos\\netproject2\\netproject2\\Views\\SubjectsView.xaml.cs",
-              "RelativeDocumentMoniker": "netproject2\\Views\\SubjectsView.xaml.cs",
-              "ToolTip": "C:\\Users\\fatin\\source\\repos\\netproject2\\netproject2\\Views\\SubjectsView.xaml.cs",
-              "RelativeToolTip": "netproject2\\Views\\SubjectsView.xaml.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAYwCQAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T11:16:28.759Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "App.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\fatin\\source\\repos\\netproject2\\netproject2\\App.xaml.cs",
-              "RelativeDocumentMoniker": "netproject2\\App.xaml.cs",
-              "ToolTip": "C:\\Users\\fatin\\source\\repos\\netproject2\\netproject2\\App.xaml.cs",
-              "RelativeToolTip": "netproject2\\App.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T11:46:37.714Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "App.xaml",
-              "DocumentMoniker": "C:\\Users\\fatin\\source\\repos\\netproject2\\netproject2\\App.xaml",
-              "RelativeDocumentMoniker": "netproject2\\App.xaml",
-              "ToolTip": "C:\\Users\\fatin\\source\\repos\\netproject2\\netproject2\\App.xaml",
-              "RelativeToolTip": "netproject2\\App.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-23T11:10:16.334Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "BaseViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\fatin\\source\\repos\\netproject2\\netproject2\\ViewModels\\BaseViewModel.cs",
-              "RelativeDocumentMoniker": "netproject2\\ViewModels\\BaseViewModel.cs",
-              "ToolTip": "C:\\Users\\fatin\\source\\repos\\netproject2\\netproject2\\ViewModels\\BaseViewModel.cs",
-              "RelativeToolTip": "netproject2\\ViewModels\\BaseViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T12:45:34.023Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "AddSubjectsView.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\fatin\\source\\repos\\netproject2\\netproject2\\Views\\AddSubjectsView.xaml.cs",
-              "RelativeDocumentMoniker": "netproject2\\Views\\AddSubjectsView.xaml.cs",
-              "ToolTip": "C:\\Users\\fatin\\source\\repos\\netproject2\\netproject2\\Views\\AddSubjectsView.xaml.cs",
-              "RelativeToolTip": "netproject2\\Views\\AddSubjectsView.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T11:17:07.901Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "SubjectsDB.cs",
-              "DocumentMoniker": "C:\\Users\\fatin\\source\\repos\\netproject2\\netproject2\\Data\\SubjectsDB.cs",
-              "RelativeDocumentMoniker": "netproject2\\Data\\SubjectsDB.cs",
-              "ToolTip": "C:\\Users\\fatin\\source\\repos\\netproject2\\netproject2\\Data\\SubjectsDB.cs",
-              "RelativeToolTip": "netproject2\\Data\\SubjectsDB.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAiwBoAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T11:38:12.56Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
               "Title": "SubjectsViewModel.cs",
               "DocumentMoniker": "C:\\Users\\fatin\\source\\repos\\netproject2\\netproject2\\ViewModels\\SubjectsViewModel.cs",
               "RelativeDocumentMoniker": "netproject2\\ViewModels\\SubjectsViewModel.cs",
               "ToolTip": "C:\\Users\\fatin\\source\\repos\\netproject2\\netproject2\\ViewModels\\SubjectsViewModel.cs",
               "RelativeToolTip": "netproject2\\ViewModels\\SubjectsViewModel.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAYwEgAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAACMAAAAAAAAAAADwvzkAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T11:15:52.808Z"
+              "WhenOpened": "2024-10-24T04:29:42.939Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "SubjectsView.xaml",
-              "DocumentMoniker": "C:\\Users\\fatin\\source\\repos\\netproject2\\netproject2\\Views\\SubjectsView.xaml",
-              "RelativeDocumentMoniker": "netproject2\\Views\\SubjectsView.xaml",
-              "ToolTip": "C:\\Users\\fatin\\source\\repos\\netproject2\\netproject2\\Views\\SubjectsView.xaml",
-              "RelativeToolTip": "netproject2\\Views\\SubjectsView.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-23T11:17:23.948Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 2,
               "Title": "LoginViewModel.cs",
               "DocumentMoniker": "C:\\Users\\fatin\\source\\repos\\netproject2\\netproject2\\ViewModels\\LoginViewModel.cs",
               "RelativeDocumentMoniker": "netproject2\\ViewModels\\LoginViewModel.cs",
               "ToolTip": "C:\\Users\\fatin\\source\\repos\\netproject2\\netproject2\\ViewModels\\LoginViewModel.cs",
               "RelativeToolTip": "netproject2\\ViewModels\\LoginViewModel.cs",
-              "ViewState": "AgIAADkAAAAAAAAAAAAAwEgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAGAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T12:38:53.997Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "LoginView.xaml",
-              "DocumentMoniker": "C:\\Users\\fatin\\source\\repos\\netproject2\\netproject2\\Views\\LoginView.xaml",
-              "RelativeDocumentMoniker": "netproject2\\Views\\LoginView.xaml",
-              "ToolTip": "C:\\Users\\fatin\\source\\repos\\netproject2\\netproject2\\Views\\LoginView.xaml",
-              "RelativeToolTip": "netproject2\\Views\\LoginView.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-23T11:18:15.908Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ISubjectService.cs",
-              "DocumentMoniker": "C:\\Users\\fatin\\source\\repos\\netproject2\\netproject2\\Data\\ISubjectService.cs",
-              "RelativeDocumentMoniker": "netproject2\\Data\\ISubjectService.cs",
-              "ToolTip": "C:\\Users\\fatin\\source\\repos\\netproject2\\netproject2\\Data\\ISubjectService.cs",
-              "RelativeToolTip": "netproject2\\Data\\ISubjectService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T03:58:31.398Z",
+              "WhenOpened": "2024-10-24T04:29:00.875Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "LoginView.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\fatin\\source\\repos\\netproject2\\netproject2\\Views\\LoginView.xaml.cs",
-              "RelativeDocumentMoniker": "netproject2\\Views\\LoginView.xaml.cs",
-              "ToolTip": "C:\\Users\\fatin\\source\\repos\\netproject2\\netproject2\\Views\\LoginView.xaml.cs",
-              "RelativeToolTip": "netproject2\\Views\\LoginView.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\fatin\\source\\repos\\netproject2\\netproject2\\App.xaml.cs",
+              "RelativeDocumentMoniker": "netproject2\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\fatin\\source\\repos\\netproject2\\netproject2\\App.xaml.cs",
+              "RelativeToolTip": "netproject2\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T11:11:38.117Z"
+              "WhenOpened": "2024-10-24T04:28:28.264Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "EditSubjectView.xaml",
-              "DocumentMoniker": "C:\\Users\\fatin\\source\\repos\\netproject2\\netproject2\\Views\\EditSubjectView.xaml",
-              "RelativeDocumentMoniker": "netproject2\\Views\\EditSubjectView.xaml",
-              "ToolTip": "C:\\Users\\fatin\\source\\repos\\netproject2\\netproject2\\Views\\EditSubjectView.xaml",
-              "RelativeToolTip": "netproject2\\Views\\EditSubjectView.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-24T01:15:01.935Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 1,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\fatin\\source\\repos\\netproject2\\netproject2\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "netproject2\\Data\\AppDbContext.cs",
               "ToolTip": "C:\\Users\\fatin\\source\\repos\\netproject2\\netproject2\\Data\\AppDbContext.cs",
               "RelativeToolTip": "netproject2\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAxwBcAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T11:26:51.616Z"
+              "WhenOpened": "2024-10-24T04:21:54.085Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "EditSubjectView.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\fatin\\source\\repos\\netproject2\\netproject2\\Views\\EditSubjectView.xaml.cs",
-              "RelativeDocumentMoniker": "netproject2\\Views\\EditSubjectView.xaml.cs",
-              "ToolTip": "C:\\Users\\fatin\\source\\repos\\netproject2\\netproject2\\Views\\EditSubjectView.xaml.cs",
-              "RelativeToolTip": "netproject2\\Views\\EditSubjectView.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "SubjectsDBTests.cs",
+              "DocumentMoniker": "C:\\Users\\fatin\\source\\repos\\netproject2\\netproject2\\Tests\\SubjectsDBTests.cs",
+              "RelativeDocumentMoniker": "netproject2\\Tests\\SubjectsDBTests.cs",
+              "ToolTip": "C:\\Users\\fatin\\source\\repos\\netproject2\\netproject2\\Tests\\SubjectsDBTests.cs",
+              "RelativeToolTip": "netproject2\\Tests\\SubjectsDBTests.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T01:19:01.973Z"
+              "WhenOpened": "2024-10-24T04:19:07.953Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "RelayCommand.cs",
-              "DocumentMoniker": "C:\\Users\\fatin\\source\\repos\\netproject2\\netproject2\\Command\\RelayCommand.cs",
-              "RelativeDocumentMoniker": "netproject2\\Command\\RelayCommand.cs",
-              "ToolTip": "C:\\Users\\fatin\\source\\repos\\netproject2\\netproject2\\Command\\RelayCommand.cs",
-              "RelativeToolTip": "netproject2\\Command\\RelayCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T11:14:26.367Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "SubjectDashboardViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\fatin\\source\\repos\\netproject2\\netproject2\\ViewModels\\SubjectDashboardViewModel.cs",
-              "RelativeDocumentMoniker": "netproject2\\ViewModels\\SubjectDashboardViewModel.cs",
-              "ToolTip": "C:\\Users\\fatin\\source\\repos\\netproject2\\netproject2\\ViewModels\\SubjectDashboardViewModel.cs",
-              "RelativeToolTip": "netproject2\\ViewModels\\SubjectDashboardViewModel.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAArwBYAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T11:15:20.637Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "20241023123451_SeedInitialData.cs",
-              "DocumentMoniker": "C:\\Users\\fatin\\source\\repos\\netproject2\\netproject2\\Migrations\\20241023123451_SeedInitialData.cs",
-              "RelativeDocumentMoniker": "netproject2\\Migrations\\20241023123451_SeedInitialData.cs",
-              "ToolTip": "C:\\Users\\fatin\\source\\repos\\netproject2\\netproject2\\Migrations\\20241023123451_SeedInitialData.cs",
-              "RelativeToolTip": "netproject2\\Migrations\\20241023123451_SeedInitialData.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T12:34:51.568Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "20241023122556_AddSubjectIdToSubjects.cs",
-              "DocumentMoniker": "C:\\Users\\fatin\\source\\repos\\netproject2\\netproject2\\Migrations\\20241023122556_AddSubjectIdToSubjects.cs",
-              "RelativeDocumentMoniker": "netproject2\\Migrations\\20241023122556_AddSubjectIdToSubjects.cs",
-              "ToolTip": "C:\\Users\\fatin\\source\\repos\\netproject2\\netproject2\\Migrations\\20241023122556_AddSubjectIdToSubjects.cs",
-              "RelativeToolTip": "netproject2\\Migrations\\20241023122556_AddSubjectIdToSubjects.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T12:25:56.696Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 5,
               "Title": "20241023122120_RenamePrimaryKeyToSubjectId.cs",
               "DocumentMoniker": "C:\\Users\\fatin\\source\\repos\\netproject2\\netproject2\\Migrations\\20241023122120_RenamePrimaryKeyToSubjectId.cs",
               "RelativeDocumentMoniker": "netproject2\\Migrations\\20241023122120_RenamePrimaryKeyToSubjectId.cs",
               "ToolTip": "C:\\Users\\fatin\\source\\repos\\netproject2\\netproject2\\Migrations\\20241023122120_RenamePrimaryKeyToSubjectId.cs",
               "RelativeToolTip": "netproject2\\Migrations\\20241023122120_RenamePrimaryKeyToSubjectId.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-23T12:21:20.642Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "netproject2.csproj",
-              "DocumentMoniker": "C:\\Users\\fatin\\source\\repos\\netproject2\\netproject2\\netproject2.csproj",
-              "RelativeDocumentMoniker": "netproject2\\netproject2.csproj",
-              "ToolTip": "C:\\Users\\fatin\\source\\repos\\netproject2\\netproject2\\netproject2.csproj",
-              "RelativeToolTip": "netproject2\\netproject2.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-23T11:26:19.159Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Subject.cs",
-              "DocumentMoniker": "C:\\Users\\fatin\\source\\repos\\netproject2\\netproject2\\Models\\Subject.cs",
-              "RelativeDocumentMoniker": "netproject2\\Models\\Subject.cs",
-              "ToolTip": "C:\\Users\\fatin\\source\\repos\\netproject2\\netproject2\\Models\\Subject.cs",
-              "RelativeToolTip": "netproject2\\Models\\Subject.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T11:14:32.03Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "SubjectDashboard.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\fatin\\source\\repos\\netproject2\\netproject2\\Views\\SubjectDashboard.xaml.cs",
-              "RelativeDocumentMoniker": "netproject2\\Views\\SubjectDashboard.xaml.cs",
-              "ToolTip": "C:\\Users\\fatin\\source\\repos\\netproject2\\netproject2\\Views\\SubjectDashboard.xaml.cs",
-              "RelativeToolTip": "netproject2\\Views\\SubjectDashboard.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T11:19:37.078Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\fatin\\source\\repos\\netproject2\\netproject2\\Models\\User.cs",
-              "RelativeDocumentMoniker": "netproject2\\Models\\User.cs",
-              "ToolTip": "C:\\Users\\fatin\\source\\repos\\netproject2\\netproject2\\Models\\User.cs",
-              "RelativeToolTip": "netproject2\\Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T11:14:37.088Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "SubjectDashboard.xaml",
-              "DocumentMoniker": "C:\\Users\\fatin\\source\\repos\\netproject2\\netproject2\\Views\\SubjectDashboard.xaml",
-              "RelativeDocumentMoniker": "netproject2\\Views\\SubjectDashboard.xaml",
-              "ToolTip": "C:\\Users\\fatin\\source\\repos\\netproject2\\netproject2\\Views\\SubjectDashboard.xaml",
-              "RelativeToolTip": "netproject2\\Views\\SubjectDashboard.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-23T11:17:34.521Z"
             }
           ]
         }
