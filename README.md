@@ -9,7 +9,13 @@
 ##  RUNNING THE PROJECT
 
 ### Pre-requisites
-- For MySQL, the root account has user: `root` & pass: `useruser`. You can keep every other setting as default. Alternatively, if you set your root account up in another method, modify the DB user and password variables to match those you used.
+- For MySQL, the root account has user: `root` & pass: `rootpassword1`. If attempting to run code on own device modify these variables in the AppDBContext.cs  following method:
+  protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+{
+    // Use Pomelo MySQL with connection string
+    optionsBuilder.UseMySql("server=localhost;database=unimanage;user=root;password=rootpassword1;",
+        new MySqlServerVersion(new Version(8, 0, 32))); 
+}
 
 - first time user needs to run in the package manager console in vm the following commands: 
 Add-Migration InitialCreate
