@@ -1,5 +1,6 @@
 ﻿using System.Windows;
 using netproject2.Data;
+using netproject2.Views;
 
 namespace netproject2
 {
@@ -8,6 +9,9 @@ namespace netproject2
         protected override void OnStartup(StartupEventArgs e)
         {
             base.OnStartup(e);
+            // Set the shutdown mode to OnMainWindowClose so the app doesn't exit when the first window is closed
+
+         
 
             // Initialize the database on startup
             using (var context = new AppDbContext())

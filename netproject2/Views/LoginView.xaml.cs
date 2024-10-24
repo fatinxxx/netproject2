@@ -23,6 +23,8 @@ namespace netproject2.Views
         public LoginView()
         {
             InitializeComponent();
+            DataContext = new LoginViewModel();  // Set the DataContext to the ViewModel
+
         }
 
         private void btnLogin_Click(object sender, RoutedEventArgs e)

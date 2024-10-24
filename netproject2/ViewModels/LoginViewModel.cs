@@ -27,13 +27,51 @@ namespace netproject2.ViewModels
         }
 
         public ICommand LoginCommand { get; }
+        public ICommand RegisterCommand { get; }
+
 
         public LoginViewModel()
         {
             _dbContext = new AppDbContext(); // Assuming AppDbContext is properly configured
             LoginCommand = new RelayCommand(Login);
-        }
+            RegisterCommand = new RelayCommand(RegisterUser);
 
+        }
+        // Register user logic
+        private void RegisterUser(object parameter)
+        {
+            // Validate input
+            if (string.IsNullOrWhiteSpace(Email) || string.IsNullOrWhiteSpace(Password))
+            {
+                MessageBox.Show("Email and password cannot be empty.", "Validation Error", MessageBoxButton.OK, MessageBoxImage.Error);
+                return;
+            }
+
+            // Check if user already exists
+            var existingUser = _dbContext.Users.FirstOrDefault(u => u.Email == Email);
+            if (existingUser != null)
+            {
+                MessageBox.Show("User already exists. Please try logging in.", "Error", MessageBoxButton.OK, MessageBoxImage.Error);
+                return;
+            }
+
+            // Create a new user
+            var newUser = new User
+            {
+                Email = Email,
+                Password = Password // In production, hash the password before saving
+            };
+
+            _dbContext.Users.Add(newUser);
+            _dbContext.SaveChanges();
+            // Navigate to SubjectsView
+            var subjectsView = new SubjectsView(newUser); // Pass the new user
+            subjectsView.Show();
+            Application.Current.Windows[0].Close();
+
+
+
+        }
         private void Login()
         {
             // Check the database for the user credentials

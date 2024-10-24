@@ -34,21 +34,20 @@ namespace netproject2.Views
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
+            // Create a new instance of the LoginView
+            var loginView = new LoginView();
 
+            // Set the LoginView as the new MainWindow
+            Application.Current.MainWindow = loginView;
+
+            // Show the LoginView
+            loginView.Show();
+
+            // Close the current window (SubjectsView in this case)
+            this.Close();
         }
 
-        private void lstSubjects_SelectionChanged(object sender, SelectionChangedEventArgs e)
-        {
-            if (lstSubjects.SelectedItem is Subject selectedSubject)
-            {
-                // Open the SubjectDashboard window and pass the selected subject
-                var subjectDashboard = new SubjectDashboard
-                {
-                    DataContext = new SubjectDashboardViewModel(selectedSubject) // Pass the selected subject
-                };
-                subjectDashboard.Show();
-            }
-        }
+       
         private void lstSubjects_MouseDoubleClick(object sender, MouseButtonEventArgs e)
         {
             if (lstSubjects.SelectedItem is Subject selectedSubject)

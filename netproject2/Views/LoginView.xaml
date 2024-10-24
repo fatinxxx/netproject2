@@ -25,6 +25,6 @@
         
         <Button x:Name="btnLogin" Content="LOG IN" Margin="0,50,0,0" 
                 Command="{Binding LoginCommand}"/>
-        <Button Content="REGISTER" Click="Btn_Reigster_Click" Margin="0,25,0,0"/>
+        <Button Content="REGISTER" Command="{Binding RegisterCommand}" Margin="0,25,0,0"/>
     </StackPanel>
 </Window>

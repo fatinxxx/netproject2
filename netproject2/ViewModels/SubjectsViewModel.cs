@@ -72,7 +72,6 @@ namespace netproject2.ViewModels
             Subjects = new ObservableCollection<Subject>(subjects);
         }
         // Edit an existing subject
-        // Edit an existing subject
 
         private void EditSubject(object subject)
         {
