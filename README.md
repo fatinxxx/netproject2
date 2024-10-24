@@ -18,10 +18,10 @@
 }
 
 - first time user needs to run in the package manager console in vm the following commands: 
-Add-Migration InitialCreate
-Update-Database
+    - 'Add-Migration InitialCreate'
+    - 'Update-Database'
 - if changed model or their attributes must run follwoign commands to aumoatically update the db locally:
-Add-Migration AddNewProperty
-Update-Database
+    - 'Add-Migration AddNewProperty'
+    - 'Update-Database'
 
 
