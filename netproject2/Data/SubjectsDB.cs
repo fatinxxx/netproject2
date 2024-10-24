@@ -5,7 +5,7 @@ using System.Linq;
 
 namespace netproject2.Data
 {
-    public class SubjectsDB
+    public class SubjectsDB : ISubjectService
     {
         private readonly AppDbContext _context;
 
@@ -68,6 +68,5 @@ namespace netproject2.Data
                 _context.SaveChanges(); // This will send a DELETE statement to the SQL DB
             }
         }
-
     }
 }

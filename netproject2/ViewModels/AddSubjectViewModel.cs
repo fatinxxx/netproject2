@@ -54,11 +54,21 @@ namespace netproject2.ViewModels
 
             private void Submit(object parameter)
             {
+                // Check if fields are empty
+                if (string.IsNullOrWhiteSpace(SubjectName) || string.IsNullOrWhiteSpace(Description))
+                {
+                    // Show an error message
+                    MessageBox.Show("Subject Name and Description cannot be empty.", "Validation Error", MessageBoxButton.OK, MessageBoxImage.Error);
+                    return;
+                }
+
                 // Raise the event to notify the SubjectsViewModel
                 SubjectAdded?.Invoke(this, new SubjectAddedEventArgs(SubjectName, Description));
 
-                CloseAction?.Invoke(); // Close the window
+                // Close the window after adding the subject
+                CloseAction?.Invoke();
             }
+
 
             private void Cancel(object parameter)
             {

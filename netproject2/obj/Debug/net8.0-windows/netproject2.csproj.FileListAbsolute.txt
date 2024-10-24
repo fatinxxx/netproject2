@@ -123,3 +123,4 @@ C:\Users\fatin\source\repos\netproject2\netproject2\obj\Debug\net8.0-windows\ref
 C:\Users\fatin\source\repos\netproject2\netproject2\obj\Debug\net8.0-windows\Views\EditSubjectView.g.cs
 C:\Users\fatin\source\repos\netproject2\netproject2\obj\Debug\net8.0-windows\Views\EditSubjectView.baml
 C:\Users\fatin\source\repos\netproject2\netproject2\obj\Debug\net8.0-windows\netproject2.sourcelink.json
+C:\Users\fatin\source\repos\netproject2\netproject2\obj\Debug\net8.0-windows\App.baml
