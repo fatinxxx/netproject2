@@ -5,7 +5,7 @@ using System.Windows.Input;
 using System.Windows;
 using netproject2.Views;
 using System.Collections.ObjectModel;
-using netproject2.ViewModels.netproject2.ViewModels;
+using netproject2.ViewModels;
 using netproject2.Data;
 using netproject2.Views;
 

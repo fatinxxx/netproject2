@@ -15,7 +15,7 @@
                 Margin="290,69,290,0">
         <TextBlock Text="UniManage" HorizontalAlignment="Center"/>
         
-        <TextBlock Text="Username" Margin="0,35,0,0"/>
+        <TextBlock Text="Email" Margin="0,35,0,0"/>
         <TextBox x:Name="txtUser" Height="28" VerticalContentAlignment="Center" 
                  Margin="0,5,0,0" Text="{Binding Email, UpdateSourceTrigger=PropertyChanged}"/>
 

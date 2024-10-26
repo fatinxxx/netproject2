@@ -63,5 +63,11 @@ namespace netproject2.Views
                 viewModel.Password = ((PasswordBox)sender).Password;
             }
         }
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            SignUp signup = new SignUp();
+            signup.Show();
+            this.Close();
+        }
     }
 }

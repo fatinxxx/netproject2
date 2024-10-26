@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP
 C:\Users\fatin\source\repos\netproject2\netproject2\App.xaml
-51705315131
+7935485138
 
-30-391381482
+36-896605315
 228-630397668
-Views\AddSubjectsView.xaml;Views\EditSubjectView.xaml;Views\LoginView.xaml;Views\SubjectDashboard.xaml;Views\SubjectsView.xaml;
+Views\AddSubjectsView.xaml;Views\AssignmentsView.xaml;Views\EditSubjectView.xaml;Views\LoginView.xaml;Views\SignUp.xaml;Views\SubjectDashboard.xaml;Views\SubjectsView.xaml;
 
 False
 

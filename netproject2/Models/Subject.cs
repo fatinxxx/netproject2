@@ -14,6 +14,21 @@ namespace netproject2.Models
         // Foreign key for User
         public int UserId { get; set; }
         public User User { get; set; }  // Navigation property to User
+        public ICollection<Assignment> Assignments { get; set; }
+
+        // Method to count assignments by type
+        public int CountAssignmentsByType(string assignmentType)
+        {
+            // LINQ with lambda expression to count assignments of the specified type
+            return Assignments.Count(a => a.AssignmentType == assignmentType);
+        }
+
+        //  Method to count assignments due soon
+        public int CountAssignmentsDueBefore(DateTime dueDate)
+        {
+            return Assignments.Count(a => a.DueDate < dueDate);
+        }
     }
 }
+
 

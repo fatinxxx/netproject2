@@ -5,7 +5,6 @@ namespace netproject2.Commands
 {
     public class RelayCommand : ICommand
     {
-        //polymporhism demod via cosntructor overloading 
         private readonly Action<object> _execute;
         private readonly Func<object, bool> _canExecute;
 
@@ -23,20 +22,16 @@ namespace netproject2.Commands
         {
         }
 
-        public bool CanExecute(object parameter)
-        {
-            return _canExecute == null || _canExecute(parameter);
-        }
+        public bool CanExecute(object parameter) => _canExecute == null || _canExecute(parameter);
 
-        public void Execute(object parameter)
-        {
-            _execute(parameter);
-        }
+        public void RaiseCanExecuteChanged() => CommandManager.InvalidateRequerySuggested();
+
+        public void Execute(object parameter) => _execute(parameter);
 
         public event EventHandler CanExecuteChanged
         {
-            add { CommandManager.RequerySuggested += value; }
-            remove { CommandManager.RequerySuggested -= value; }
+            add => CommandManager.RequerySuggested += value;
+            remove => CommandManager.RequerySuggested -= value;
         }
     }
 }

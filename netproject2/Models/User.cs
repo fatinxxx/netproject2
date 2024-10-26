@@ -14,5 +14,8 @@ namespace netproject2.Models
         public string Password { get; set; }
         // A user can have multiple subjects
         public ICollection<Subject> Subjects { get; set; }
+
+        public string FullName { get; set; }
+
     }
 }

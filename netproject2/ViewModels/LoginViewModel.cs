@@ -34,10 +34,18 @@ namespace netproject2.ViewModels
         {
             _dbContext = new AppDbContext(); // Assuming AppDbContext is properly configured
             LoginCommand = new RelayCommand(Login);
-            RegisterCommand = new RelayCommand(RegisterUser);
+            //RegisterCommand = new RelayCommand(RegisterUser);
+            RegisterCommand = new RelayCommand(OpenSignUpView);
+
 
         }
-        // Register user logic
+        private void OpenSignUpView(object parameter)
+        {
+            var signUpView = new SignUp();
+            signUpView.Show();
+        }
+        // Register user logic from register button with only pswd and email
+        /*
         private void RegisterUser(object parameter)
         {
             // Validate input
@@ -72,6 +80,7 @@ namespace netproject2.ViewModels
 
 
         }
+        */
         private void Login()
         {
             // Check the database for the user credentials
